@@ -4,7 +4,8 @@ I'm a software engineer who is passionate about Mobile Development for Small Bus
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jhon-atuncar-0685b2127/) 
-## 🌐 [![COMPLETE CURRICULUM]()](https://jhoncv.netlify.app/) 
+## 🌐 Complete CV:
+[![Netlify](https://developers.google.com/static/search/images/google-search-central-logo.png)](https://jhoncv.netlify.app/) 
 
 
 # 💻 Tech Stack:
